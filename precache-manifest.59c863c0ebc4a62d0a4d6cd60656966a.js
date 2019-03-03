@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/country-flag/static/js/runtime~main.dbabce73.js"
   },
   {
-    "revision": "585dd181c99acb813a26",
-    "url": "/country-flag/static/js/main.585dd181.chunk.js"
+    "revision": "73d19722eb883af755ce",
+    "url": "/country-flag/static/js/main.73d19722.chunk.js"
   },
   {
     "revision": "6f507d9de21f9a669927",
     "url": "/country-flag/static/js/1.6f507d9d.chunk.js"
   },
   {
-    "revision": "585dd181c99acb813a26",
-    "url": "/country-flag/static/css/main.a47df0e5.chunk.css"
+    "revision": "73d19722eb883af755ce",
+    "url": "/country-flag/static/css/main.e69f8062.chunk.css"
   },
   {
-    "revision": "4945f4e37629fc2d47f2d0c59ed12069",
+    "revision": "fca83449344b2e1359ebc90107ebf35d",
     "url": "/country-flag/index.html"
   }
 ];
