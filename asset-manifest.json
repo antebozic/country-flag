@@ -1,13 +1,13 @@
 {
-  "main.css": "/country-flag/static/css/main.f68f208d.chunk.css",
-  "main.js": "/country-flag/static/js/main.0c84f45d.chunk.js",
-  "main.js.map": "/country-flag/static/js/main.0c84f45d.chunk.js.map",
+  "main.css": "/country-flag/static/css/main.74e801ec.chunk.css",
+  "main.js": "/country-flag/static/js/main.ef5e77eb.chunk.js",
+  "main.js.map": "/country-flag/static/js/main.ef5e77eb.chunk.js.map",
   "static/js/1.9210d87d.chunk.js": "/country-flag/static/js/1.9210d87d.chunk.js",
   "static/js/1.9210d87d.chunk.js.map": "/country-flag/static/js/1.9210d87d.chunk.js.map",
   "runtime~main.js": "/country-flag/static/js/runtime~main.dbabce73.js",
   "runtime~main.js.map": "/country-flag/static/js/runtime~main.dbabce73.js.map",
-  "static/css/main.f68f208d.chunk.css.map": "/country-flag/static/css/main.f68f208d.chunk.css.map",
+  "static/css/main.74e801ec.chunk.css.map": "/country-flag/static/css/main.74e801ec.chunk.css.map",
   "index.html": "/country-flag/index.html",
-  "precache-manifest.a287d49913ab1c0bacb4a11d9652bd81.js": "/country-flag/precache-manifest.a287d49913ab1c0bacb4a11d9652bd81.js",
+  "precache-manifest.d96dfbe88e0dd9f38288ff99e7950705.js": "/country-flag/precache-manifest.d96dfbe88e0dd9f38288ff99e7950705.js",
   "service-worker.js": "/country-flag/service-worker.js"
 }
